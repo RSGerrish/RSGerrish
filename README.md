@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning full stack development through The Odin Project. I breezed through the Foundations Course and got a running (jogging maybe!?) start on the Full Stack Javascript Path however I eventually came to a point where I was full-on learning again. I am currently finishing up the ReactJS section and feel that I have the skills to be employed as a web developer. As I'm sure most great programmers are, I am highly adaptable and have found that my years and years of dabbling in different languages has really helped me to pick-up the basic concepts of a new framework or language quickly.
 
 - 💞️ I’m looking to collaborate on any project that will help me to become a better programmer. I currently plan on spending quite a bit of time working through The Odin Project but assume I will reach out for more collaborative work once I feel I have a strong grasp on full stack development.
-- 
+
 - 📫 I can be reached at rbn.sills@gmail.com or come find me on discord! SephusMeens#7354 https://discord.gg/6HvfyB8XBr
 
 <!---
